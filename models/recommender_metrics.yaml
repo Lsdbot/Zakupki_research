@@ -1,0 +1,14 @@
+basic_metrics:
+  Accuracy: 0.915
+  Logloss: 0.21
+  Precision: 0.508
+  ROC_AUC: 0.921
+  Recall: 0.601
+  f1: 0.512
+best_metrics:
+  Accuracy: 0.917
+  Logloss: 0.264
+  Precision: 0.563
+  ROC_AUC: 0.924
+  Recall: 0.575
+  f1: 0.508

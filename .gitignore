@@ -1,0 +1,14 @@
+#Jupyter notebook
+*.ipynb_checkpoints
+
+#Python
+.idea
+
+#csv files
+/data/
+
+#catboost files
+catboost_info/
+
+#models
+models/models/
